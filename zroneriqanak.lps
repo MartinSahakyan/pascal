@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="9"/>
+    <BuildModes Active="Default"/>
+    <Units Count="1">
+      <Unit0>
+        <Filename Value="zroneriqanak.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <CursorPos X="5" Y="16"/>
+        <UsageCount Value="21"/>
+        <Loaded Value="True"/>
+      </Unit0>
+    </Units>
+    <JumpHistory Count="7" HistoryIndex="6">
+      <Position1>
+        <Filename Value="zroneriqanak.lpr"/>
+        <Caret Line="13" Column="8"/>
+      </Position1>
+      <Position2>
+        <Filename Value="zroneriqanak.lpr"/>
+        <Caret Line="17"/>
+      </Position2>
+      <Position3>
+        <Filename Value="zroneriqanak.lpr"/>
+        <Caret Line="19"/>
+      </Position3>
+      <Position4>
+        <Filename Value="zroneriqanak.lpr"/>
+        <Caret Line="20"/>
+      </Position4>
+      <Position5>
+        <Filename Value="zroneriqanak.lpr"/>
+        <Caret Line="21"/>
+      </Position5>
+      <Position6>
+        <Filename Value="zroneriqanak.lpr"/>
+        <Caret Line="19"/>
+      </Position6>
+      <Position7>
+        <Filename Value="zroneriqanak.lpr"/>
+        <Caret Line="15"/>
+      </Position7>
+    </JumpHistory>
+  </ProjectSession>
+</CONFIG>
