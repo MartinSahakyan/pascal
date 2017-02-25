@@ -1,0 +1,15 @@
+*.exe
+*.lpi
+*.lps
+*.lpr
+*.bak
+*.ico
+*.res
+*.orig
+*.jpg
+*.pdf
+*BASE*.pas
+*LOCAL*.pas
+*BACKUP*.pas
+*REMOTE*.pas
+lib/
